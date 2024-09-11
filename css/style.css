@@ -740,7 +740,7 @@ header .header-col.mid .social-icons {
   counter-increment: my-awesome-counter;
 }
 
-#mainmenu>li::before {
+/* #mainmenu>li::before {
   content: counter(my-awesome-counter) ' —';
   right: 8px;
   top: 5px;
@@ -748,7 +748,7 @@ header .header-col.mid .social-icons {
   margin-right: 5px;
   font-weight: 500;
   font-family: var(--title-font);
-}
+} */
 
 header.smaller #mainmenu>li::before{
   transform: scale(0);

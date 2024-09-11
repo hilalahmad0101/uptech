@@ -1,6 +1,10 @@
  /* --------------------------------------------------
-  * © Copyright 2023 - UpTech by Designesia
-  * --------------------------------------------------*/
+  * © Copyright  &nbsp;&nbsp;
+ <span id="year"></span> - Bizsol
+<script>
+const currentYear = new Date().getFullYear();
+document.getElementById('year').textContent = currentYear;
+</script>  * --------------------------------------------------*/
 (function($) {
 	'use strict';
 
