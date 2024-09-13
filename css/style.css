@@ -1,7 +1,7 @@
 /* ================================================== */
 
 
-/* UpTech
+/* Bizsol
 /* created by designesia
 
 @charset "utf-8";
@@ -18910,7 +18910,7 @@ img {
     padding: 0;
     padding-top: 20px;
     padding-bottom: 100px !important;
-    overflow-y: auto;
+    /* overflow-y: auto; */
     top: 100px;
   }
 
